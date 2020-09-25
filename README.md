@@ -1,6 +1,6 @@
 # clj-rcon
 
-[![Clojars Project](http://clojars.org/clj-rcon/latest-version.svg)](http://clojars.org/clj-rcon)
+[![Clojars Project](http://clojars.org/counterstrafe/clj-rcon/latest-version.svg)](https://clojars.org/counterstrafe/clj-rcon)
 
 A Clojure library implementing the Source RCON protocol for
 administering Source engine powered game servers (TF2, L4D, etc.).
